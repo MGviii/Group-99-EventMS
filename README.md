@@ -1,2 +1,2 @@
-# Group-99-HostelMS
-This is the repository for USSD and SMS based Mini-Project of Hostel Management System
+# Group-99-EventMS
+This is the repository for USSD and SMS based Mini-Project of Event Management System
